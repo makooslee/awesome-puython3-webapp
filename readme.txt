@@ -5,3 +5,7 @@ git is a better tool
 
 
 git 是一个好动西
+
+
+
+Greating a new branch is quick & simple
