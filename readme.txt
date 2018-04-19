@@ -4,4 +4,7 @@ git is a better tool
 
 
 
-git 是一个好动西
+git 是一个好动西1
+
+
+Greating a new branch is quick AND simple
