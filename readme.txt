@@ -8,3 +8,9 @@ git 是一个好动西1
 
 
 Greating a new branch is quick AND simple
+
+
+Gradisn isn kkks 
+
+
+这只是一个git的联系
